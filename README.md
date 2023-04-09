@@ -1,4 +1,6 @@
-## Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height=29 align=left> I'm Nilton Avalos aka <img align = "center" alt="icon" width="25px" height="32px" style="padding-right:3px;" src="https://github.com/NinoAC/NinoAC/blob/main/assets/profile icon.png?raw=true"/>NinoAC 
+## Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height=29 align=left>
+
+#### I'm Nilton Avalos aka <img align = "center" alt="icon" width="25px" height="32px" style="padding-right:3px;" src="https://github.com/NinoAC/NinoAC/blob/main/assets/profile icon.png?raw=true"/>NinoAC 
 
 Welcome to my personal Github page. Here I put my thoughts and ideas into code.
 
