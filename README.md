@@ -32,6 +32,7 @@ Welcome to my personal Github page. Here I put my thoughts and ideas into code.
 ### 📊 Stats
 
 ![Niltons's GitHub stats](https://github-readme-stats.vercel.app/api?username=NinoAC&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![Niltons's GitHub stats 2](https://github-readme-streak-stats.herokuapp.com/?user=ninoac&theme=react&hide_border=false)
 
 #
 
@@ -40,5 +41,3 @@ Welcome to my personal Github page. Here I put my thoughts and ideas into code.
 
 #
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
